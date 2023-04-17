@@ -1,0 +1,11 @@
+Id: Google.Chrome
+Name: Google Chrome
+Publisher: Google LLC
+Version: 94.0.4606.81
+AppMoniker: Chrome
+Homepage: https://www.google.com/chrome/
+Description: The fast, free browser that's built for the modern web.
+License: Proprietary
+InstallerType: EXE
+InstallerUrl: https://dl.google.com/chrome/install/standalone/GoogleChromeStandaloneEnterprise64.msi
+InstallerSha256: 4a4df1e20c95d256bf1f2c558f12507d90610b703e55bbf6df1f6d235924a853
